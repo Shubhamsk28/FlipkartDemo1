@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<br><img src='C:\Users\SSIDRAIK\eclipse-workspace\Flipkart_DemoTesting//screenshots//1669029716376.png'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Users\SSIDRAIK\eclipse-workspace\Flipkart_DemoTesting//screenshots//1669029750979.png'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Users\SSIDRAIK\eclipse-workspace\Flipkart_DemoTesting//screenshots//1669029796594.png'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Users\SSIDRAIK\eclipse-workspace\Flipkart_DemoTesting//screenshots//1669029835666.png'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Users\SSIDRAIK\eclipse-workspace\Flipkart_DemoTesting//screenshots//1669029880031.png'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Users\SSIDRAIK\eclipse-workspace\Flipkart_DemoTesting//screenshots//1669029923242.png'/><br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-11-21T16:51:25 IST" name="Suite" finished-at="2022-11-21T16:55:28 IST" duration-ms="243032">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T16:51:25 IST" name="Test" finished-at="2022-11-21T16:55:28 IST" duration-ms="243032">
+      <class name="flipkart_Teststeps.Login_Test">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:flipkart_Teststeps.Login_Test@78e4deb0]" started-at="2022-11-21T16:51:25 IST" name="beforeMethod" finished-at="2022-11-21T16:51:55 IST" duration-ms="29608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="veryficationLoginpage()[pri:0, instance:flipkart_Teststeps.Login_Test@78e4deb0]" started-at="2022-11-21T16:51:55 IST" name="veryficationLoginpage" finished-at="2022-11-21T16:51:57 IST" duration-ms="1870" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='C:\Users\SSIDRAIK\eclipse-workspace\Flipkart_DemoTesting//screenshots//1669029716376.png'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- veryficationLoginpage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:flipkart_Teststeps.Login_Test@78e4deb0]" started-at="2022-11-21T16:51:57 IST" name="afterMethod" finished-at="2022-11-21T16:52:02 IST" duration-ms="5012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:flipkart_Teststeps.Login_Test@78e4deb0]" started-at="2022-11-21T16:52:02 IST" name="beforeMethod" finished-at="2022-11-21T16:52:29 IST" duration-ms="27382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="veryficationLoginpagewithvalid()[pri:0, instance:flipkart_Teststeps.Login_Test@78e4deb0]" started-at="2022-11-21T16:52:29 IST" name="veryficationLoginpagewithvalid" finished-at="2022-11-21T16:52:33 IST" duration-ms="4089" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='C:\Users\SSIDRAIK\eclipse-workspace\Flipkart_DemoTesting//screenshots//1669029750979.png'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- veryficationLoginpagewithvalid -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:flipkart_Teststeps.Login_Test@78e4deb0]" started-at="2022-11-21T16:52:33 IST" name="afterMethod" finished-at="2022-11-21T16:52:38 IST" duration-ms="5005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- flipkart_Teststeps.Login_Test -->
+      <class name="flipkart_Teststeps.Homepage_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:flipkart_Teststeps.Homepage_Test@8458f04]" started-at="2022-11-21T16:52:38 IST" name="setup" finished-at="2022-11-21T16:53:13 IST" duration-ms="34584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyVisibleTXT()[pri:0, instance:flipkart_Teststeps.Homepage_Test@8458f04]" started-at="2022-11-21T16:53:13 IST" name="verifyVisibleTXT" finished-at="2022-11-21T16:53:16 IST" duration-ms="3507" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='C:\Users\SSIDRAIK\eclipse-workspace\Flipkart_DemoTesting//screenshots//1669029796594.png'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyVisibleTXT -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:flipkart_Teststeps.Homepage_Test@8458f04]" started-at="2022-11-21T16:53:16 IST" name="afterMethod" finished-at="2022-11-21T16:53:21 IST" duration-ms="5011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:flipkart_Teststeps.Homepage_Test@8458f04]" started-at="2022-11-21T16:53:21 IST" name="setup" finished-at="2022-11-21T16:53:55 IST" duration-ms="33662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifypageTitle()[pri:0, instance:flipkart_Teststeps.Homepage_Test@8458f04]" started-at="2022-11-21T16:53:55 IST" name="verifypageTitle" finished-at="2022-11-21T16:53:56 IST" duration-ms="427" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='C:\Users\SSIDRAIK\eclipse-workspace\Flipkart_DemoTesting//screenshots//1669029835666.png'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifypageTitle -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:flipkart_Teststeps.Homepage_Test@8458f04]" started-at="2022-11-21T16:53:56 IST" name="afterMethod" finished-at="2022-11-21T16:54:01 IST" duration-ms="5001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:flipkart_Teststeps.Homepage_Test@8458f04]" started-at="2022-11-21T16:54:01 IST" name="setup" finished-at="2022-11-21T16:54:34 IST" duration-ms="33139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyphone()[pri:0, instance:flipkart_Teststeps.Homepage_Test@8458f04]" started-at="2022-11-21T16:54:34 IST" name="verifyphone" finished-at="2022-11-21T16:54:40 IST" duration-ms="6280" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='C:\Users\SSIDRAIK\eclipse-workspace\Flipkart_DemoTesting//screenshots//1669029880031.png'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyphone -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:flipkart_Teststeps.Homepage_Test@8458f04]" started-at="2022-11-21T16:54:40 IST" name="afterMethod" finished-at="2022-11-21T16:54:45 IST" duration-ms="5013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:flipkart_Teststeps.Homepage_Test@8458f04]" started-at="2022-11-21T16:54:45 IST" name="setup" finished-at="2022-11-21T16:55:16 IST" duration-ms="30670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifysearch()[pri:0, instance:flipkart_Teststeps.Homepage_Test@8458f04]" started-at="2022-11-21T16:55:16 IST" name="verifysearch" finished-at="2022-11-21T16:55:23 IST" duration-ms="7677" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='C:\Users\SSIDRAIK\eclipse-workspace\Flipkart_DemoTesting//screenshots//1669029923242.png'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifysearch -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:flipkart_Teststeps.Homepage_Test@8458f04]" started-at="2022-11-21T16:55:23 IST" name="afterMethod" finished-at="2022-11-21T16:55:28 IST" duration-ms="5003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- flipkart_Teststeps.Homepage_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
